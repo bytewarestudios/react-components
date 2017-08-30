@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Accordion } from './components/accordion/accordion';
 import logo from './logo.svg';
 import './App.css';
+import 'public/javascripts/firebase-authentication';
 
 class App extends Component {
 
